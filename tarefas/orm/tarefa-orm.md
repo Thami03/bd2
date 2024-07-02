@@ -6,3 +6,9 @@ ODBC (Open Database Connectivity) é uma interface padrão de programação de a
 
 ORM (Object-Relational Mapping) é uma técnica de programação que facilita a conversão de dados entre sistemas incompatíveis em linguagens de programação orientadas a objetos e bancos de dados relacionais. O ORM permite que os desenvolvedores trabalhem com dados em forma de objetos, ao invés de linhas e colunas de tabelas de banco de dados, proporcionando uma abstração que simplifica o desenvolvimento de aplicativos.
 
+
+# Scripts
+
+[ORM](scri-orm.py) | [ODBC](scri-odbc.py)
+
+
